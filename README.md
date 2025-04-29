@@ -42,3 +42,15 @@ Feel free to open issues or submit pull requests if you have improvements or add
 
 Acknowledgments
 This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Striver for creating such a comprehensive and structured approach to learning DSA.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Sliding Window
+|  |
+| ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+<!---LeetCode Topics End-->
