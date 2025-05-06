@@ -50,6 +50,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2048-build-array-from-permutation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sliding Window
 |  |
@@ -63,4 +64,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
