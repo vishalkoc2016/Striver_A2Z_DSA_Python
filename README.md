@@ -52,6 +52,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2048-build-array-from-permutation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +69,20 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2048-build-array-from-permutation) |
+## Graph
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Matrix
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
