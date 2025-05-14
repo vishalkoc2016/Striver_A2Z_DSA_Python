@@ -65,6 +65,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -95,11 +96,13 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3637-count-number-of-balanced-permutations) |
 ## Combinatorics
 |  |
@@ -110,6 +113,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +126,5 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
