@@ -53,6 +53,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2215-finding-3-digit-even-numbers) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -97,6 +98,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## String
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -104,6 +106,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Dynamic Programming
 |  |
 | ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
