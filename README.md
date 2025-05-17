@@ -48,6 +48,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -124,6 +125,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -134,4 +136,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
