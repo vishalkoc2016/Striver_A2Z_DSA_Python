@@ -60,6 +60,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3321-type-of-triangle) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3639-zero-array-transformation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,4 +145,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
