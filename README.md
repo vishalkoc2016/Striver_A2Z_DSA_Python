@@ -48,6 +48,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0075-sort-colors) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1293-three-consecutive-odds) |
@@ -94,6 +95,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0073-set-matrix-zeroes) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
@@ -123,6 +125,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
