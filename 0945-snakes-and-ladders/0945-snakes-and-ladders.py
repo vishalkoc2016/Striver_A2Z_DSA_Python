@@ -3,7 +3,7 @@ class Solution:
     n = len(board)
     q = collections.deque([1])
     seen = set()
-    arr = [0] * (1 + n * n)  # 2D -> 1D
+    arr = [0] * (1 + n * n)
 
     for i in range(n):
       for j in range(n):
