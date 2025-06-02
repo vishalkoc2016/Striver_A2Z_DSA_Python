@@ -50,6 +50,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1293-three-consecutive-odds) |
@@ -84,6 +85,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
