@@ -118,6 +118,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## String
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -200,4 +201,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [0945-snakes-and-ladders](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
