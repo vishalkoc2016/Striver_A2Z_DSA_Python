@@ -88,6 +88,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [0135-candy](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -120,6 +121,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3194-find-words-containing-character) |
@@ -148,6 +150,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [0073-set-matrix-zeroes](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0073-set-matrix-zeroes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
@@ -210,4 +213,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0386-lexicographical-numbers) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
