@@ -193,6 +193,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0386-lexicographical-numbers) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -205,4 +206,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
