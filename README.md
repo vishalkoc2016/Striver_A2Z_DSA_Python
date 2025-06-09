@@ -217,4 +217,8 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
