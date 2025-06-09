@@ -213,6 +213,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Stack
 |  |
 | ------- |
