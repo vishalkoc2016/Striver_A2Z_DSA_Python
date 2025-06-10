@@ -129,6 +129,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +154,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
