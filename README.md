@@ -77,6 +77,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3201-distribute-candies-among-children-ii) |
@@ -89,6 +90,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | ------- |
 | [0135-candy](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2704-maximum-difference-by-remapping-a-digit) |
