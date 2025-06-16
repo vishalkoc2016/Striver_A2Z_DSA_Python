@@ -56,6 +56,7 @@ This repository is inspired by the Striver A2Z DSA Sheet. Special thanks to Stri
 | [1293-three-consecutive-odds](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/vishalkoc2016/Striver_A2Z_DSA_Python/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
